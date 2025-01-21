@@ -1,0 +1,13 @@
+*.pyc
+*.pyo
+__pycache__/
+.idea/
+venv_AML/
+IBA/
+venv/
+datasets/
+data/
+Tdms_Import/
+DataPipeline/
+NeuralNetworkFromScratch/
+ML_hd1_exploration/
